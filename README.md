@@ -1,2 +1,2 @@
 # Credt-Risk-Analysis
-Credit Risk Analysis for Bodora Bank using Python
+Credit Risk Analysis for Bondora Bank using Python
